@@ -14,6 +14,7 @@ from keras.layers import Flatten
 from keras.layers import Embedding
 
 # define documents
+# todo: read in yes-no labeled file
 docs = ['yes',
 		'ok',
 		'yep',
@@ -80,3 +81,8 @@ model.fit(padded_docs, labels, epochs=50, verbose=0)
 # evaluate the model
 loss, accuracy = model.evaluate(padded_docs, labels, verbose=0)
 print('Accuracy: %f' % (accuracy*100))
+
+
+# todo: add a prediction function
+
+model.evaluate()
