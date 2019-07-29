@@ -1,0 +1,152 @@
+2    "I don't have a clue"
+2    "I don't have a clue"
+2    "I don't know"
+2    "I don't know"
+2    "I have no clue"
+2    "I have no idea"
+2    "I may agree"
+2    "I might agree"
+2    "I think so"
+2    "I think so"
+2    "I'm not sure if I agree"
+2    "I'm not sure if I agree"
+2    "I'm not sure if I agree"
+2    "I'm not sure if I agree"
+2    "I'm not sure if I agree"
+2    "I'm not sure"
+2    "no idea"
+2    "not sure"
+2    "not sure"
+2    dunno
+2    maybe
+2    maybe
+2    meh
+2    perhaps
+2    possibly
+2    unsure
+2    wait
+1   "I changed my mind"
+1   "I don't agree"
+1   "I don't agree"
+1   "I don't agree"
+1   "I don't agree"
+1   "I don't agree"
+1   "absolutely not"
+1   "belay that"
+1   "cut it out"
+1   "don't do anything"
+1   "don't do it"
+1   "forget it"
+1   "never mind"
+1   "no thanks"
+1   "no way"
+1   "on second thought, don't do it"
+1   "please don't"
+1   "scratch that"
+1   cancel
+1   denied
+1   disengage
+1   don't
+1   end
+1   exit
+1   halt
+1   n
+1   nah
+1   nay
+1   nay
+1   neg
+1   negative
+1   negatory
+1   nein
+1   nevermind
+1   nevermind
+1   no
+1   no
+1   no
+1   nope
+1   nope
+1   nyet
+1   quit
+1   skip
+1   stop
+1   stop
+0  "I agree"
+0  "I agree"
+0  "I agree"
+0  "I agree"
+0  "I agree"
+0  "I agree"
+0  "I agree"
+0  "I agree"
+0  "I agree"
+0  "I'm sure"
+0  "I'm sure"
+0  "I'm sure"
+0  "I'm sure"
+0  "I'm sure"
+0  "aye aye"
+0  "carry on"
+0  "do it"
+0  "do it"
+0  "do it"
+0  "get on with it then"
+0  "go ahead"
+0  "i agree"
+0  "make it happen"
+0  "make it so"
+0  "most assuredly"
+0  "perfect, thanks"
+0  "please do"
+0  "rock on"
+0  "that's correct"
+0  "that's right"
+0  "uh huh"
+0  "yeah, do it"
+0  "yes, do it"
+0  "yes, please"
+0  "you got it"
+0  absolutely
+0  absolutely
+0  absolutely
+0  affirmative
+0  alright
+0  assuredly
+0  aye
+0  certainly
+0  confirmed
+0  continue
+0  continue
+0  correct
+0  da
+0  good
+0  hooray
+0  ja
+0  ok
+0  ok
+0  ok
+0  okay
+0  proceed
+0  righto
+0  sure
+0  sure
+0  sure
+0  sure
+0  sure
+0  sure
+0  sure
+0  sure
+0  sure
+0  thanks
+0  totally
+0  true
+0  y
+0  ya
+0  ya
+0  yay
+0  yea
+0  yeah
+0  yeah
+0  yep
+0  yeppers
+0  yes
+0  yes
